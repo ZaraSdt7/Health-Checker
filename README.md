@@ -25,7 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+Create Health-Checker for Nestjs
 ## Installation
 
 ```bash
@@ -55,7 +55,7 @@ $ npm run test
 $ npm run test:e2e
 
 # test coverage
-$ npm run test:cov
+$ npm run test:dev
 ```
 
 ## Support
